@@ -66,12 +66,3 @@ We thank the following repos providing helpful components/functions in our work.
 - [CODA-Prompt](https://github.com/GT-RIPL/CODA-Prompt)
 - [LAMDA-PILOT](https://github.com/sun-hailong/LAMDA-PILOT)
 
-## Citation
-If you found our work useful for your research, please cite our work:
-
-@inproceedings{moal,
- author = {Wangwang Jia and Zijian Gao},
- booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
- title = {Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning},
- year = {2025}
-}
